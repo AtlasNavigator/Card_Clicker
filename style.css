@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #f9feff;
+    background: black;
     font-family: Verdana, sans-serif;
 }
 
@@ -17,7 +17,7 @@ label {
 input[type="text"], textarea, select{
     font-size: .875rem;
     line-height: 1.25rem;
-    border: 1px solid #d1d5db;
+    border: 1px solid ;
     border-radius: 6px;
     padding: 8px 12px;
     margin-bottom: 12px;
