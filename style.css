@@ -2,7 +2,8 @@
     box-sizing: border-box;
 }
 body{
-    background: #f3f4f6;
+    background: #f9feff;
+    font-family: Verdana, sans-serif;
 }
 
 label {
@@ -23,7 +24,7 @@ input[type="text"], textarea, select{
     color: #374151;
 }
 fieldset{
-    border: 1px solid #d1d5db;
+    border: 1px solid #f9feff;
     border-radius: 6px;
     width: fit-content;
     margin-bottom: 16px;
@@ -65,7 +66,7 @@ section header{
 
 .content{
     box-shadow: 0 1px 3px 0 rgba(0 0 0  0.1), 0 1px 2px -1px rgba(0 0 0  0.1);
-    background: white;
+    background: #f9feff;
     padding: 20px;
     border-radius: 12px;
     width: 500px;
